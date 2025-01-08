@@ -1,6 +1,6 @@
 # YouTube Clone
 
-- A YouTube clone built with React, React Router, Axios, React Icons, React Player, Millify, and styled with Tailwind CSS. This project aims to replicate the look and feel of YouTube, providing features like video playback, search functionality, and more.
+- A YouTube clone built with React, React Router, Axios, React Icons, React Player, Millify, and styled with Tailwind CSS. This project was created for educational purposes to demonstrate how to build a web application similar to YouTube. It provides features such as video playback, search functionality, and more, while showcasing how to integrate various libraries and APIs in a React app.
 
 ## Features
 
