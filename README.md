@@ -21,3 +21,10 @@
 - Millify: Format large numbers to make them more readable (e.g., 1M views).
 - Tailwind CSS: Utility-first CSS framework for fast UI development.
 - React Icons: A set of icons that can be easily used with React.
+
+## Screenshots
+
+![screen01](https://github.com/user-attachments/assets/6362230b-b65d-4f68-9d13-fdadb3ca0078)
+
+![screen02](https://github.com/user-attachments/assets/4ef31f9e-cd80-4fed-b83d-0e5b9b15617a)
+
